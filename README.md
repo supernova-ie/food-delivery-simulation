@@ -60,9 +60,11 @@ The most influential feature across both models was **distance**, followed by **
 *Figure 2: Actual vs Predicted delivery times*
 
 ![Feature Importance](08_feature_importance.png)
+
 *Figure 3: Feature importance scores from the regression model*
 
 ![Confusion Matrix](09_food_delivery_confusion_matrix.png)
+
 *Figure 4: Classification model — on-time delivery prediction*
 
 ## Technologies Used
