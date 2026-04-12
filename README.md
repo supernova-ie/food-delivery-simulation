@@ -57,6 +57,7 @@ The most influential feature across both models was **distance**, followed by **
 *Figure 1: Delivery time distribution and on-time delivery rate — Sim1 vs Sim2*
 
 ![Regression](07_regression_results.png)
+
 *Figure 2: Actual vs Predicted delivery times*
 
 ![Feature Importance](08_feature_importance.png)
